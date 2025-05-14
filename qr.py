@@ -41,7 +41,8 @@ def create_qr_with_logo(data, logo_path, output_path, qr_size=700, logo_size_rat
     # Save the resulting image
     qr_img.save(output_path)
 
-# Example usage
+# Change this 
+# link can be changed to any desired link
 data = "https://github.com/waynetanjh"
 logo_path = "image.png"
 output_path = "qr_with_logo.png"
