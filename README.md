@@ -1,5 +1,5 @@
 # QR-Code-Generator-with-Custom-Logo-Embedded
-Websites Online require you to pay for this so I made my own 
+Websites Online require you to pay to generate a custom QR code with a logo embedded in the middle. I didn't want to pay so I made my own 
 
 This is how the QR code generated looks like
 
